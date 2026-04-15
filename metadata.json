@@ -1,0 +1,6 @@
+{
+  "name": "SafeHer",
+  "description": "A high-end, immersive personal safety OS with real-time monitoring, emergency response, and network connectivity.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Safety Monitoring", "Emergency Response", "Network Connectivity"]
+}
